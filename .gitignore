@@ -1,0 +1,3 @@
+.vaccineEnv
+*.pyc
+__pycache__/
